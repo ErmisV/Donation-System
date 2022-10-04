@@ -116,7 +116,7 @@ public class Menu {
 		System.out.println("2. Monitor Organization");
 		System.out.println("1. View");
 		System.out.println("4. Logout");
-		System.out.println("5. Åxit");
+		System.out.println("5. ï¿½xit");
 		
 		String x=inp.nextLine();
 		if(x.equals("4"))
@@ -144,7 +144,7 @@ public class Menu {
 		System.out.println("2. Show Requests");
 		System.out.println("1. Commit");
 		System.out.println("4. Logout");
-		System.out.println("5. Åxit");
+		System.out.println("5. ï¿½xit");
 		
 		String x=inp.nextLine();
 		if(x.equals("4"))
@@ -170,7 +170,7 @@ public class Menu {
 		System.out.println("2. Show Offers");
 		System.out.println("1. Commit");
 		System.out.println("4. Logout");
-		System.out.println("5. Åxit");
+		System.out.println("5. ï¿½xit");
 		
 		String x=inp.nextLine();
 		if(x.equals("4"))
