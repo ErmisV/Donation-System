@@ -1,3 +1,3 @@
-# Project Object-Oriented Programming
+# Donation-System
 
-( for course of the same name ) .
+
